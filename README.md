@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Swift
 - 💞️ I’m looking to collaborate on anything that can give me improvment 
-- 📫 How to reach me cyw@cywang.em
+- 📫 How to reach me cyw@cywang.me
 
 <Everytime I Compile the code, I feel like I am creating a world> - cywang
 <!---
