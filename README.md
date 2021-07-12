@@ -4,6 +4,9 @@
 - 💞️ I’m looking to collaborate on anything that can give me improvment 
 - 📫 How to reach me cyw@cywang.me
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cywang95)](https://git.io/streak-stats)
+
+
 <Everytime I Compile the code, I feel like I am creating a world> - cywang
 <!---
 cywang95/cywang95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
