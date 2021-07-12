@@ -9,7 +9,7 @@
 
 <Everytime I Compile the code, I feel like I am creating a world> - cywang
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cywang95&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cywang95&count_private=true&show_icons=true&theme=tokyonight)
 
 <!---
 cywang95/cywang95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
