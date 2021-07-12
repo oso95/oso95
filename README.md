@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on anything that can give me improvment 
 - 📫 How to reach me cyw@cywang.me
 
-```python3
+```
 <Everytime I Compile the code, I feel like I am a god who is creating a world until when I see **error** >
 
 ````
