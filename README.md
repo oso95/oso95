@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @cywang95
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Swift
+- 🌱 I’m currently learning Go Lang
 - 💞️ I’m looking to collaborate on anything that can give me improvment 
 - 📫 How to reach me cyw@cywang.me
 
