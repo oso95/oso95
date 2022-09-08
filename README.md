@@ -7,7 +7,7 @@
 - 📫 How to reach me cyw@cywang.me
 
 ```
-<Everytime I Compile the code, I feel like god who is creating a world until compile error pops up >
+<No more errors!>
 
 ````
 
