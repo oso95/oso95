@@ -12,7 +12,7 @@
 ````
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oso95&theme=dark)](https://git.io/streak-stats)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cywang95&count_private=true&show_icons=true&theme=tokyonight)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oso95&theme=dark)](https://git.io/streak-stats)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oso95&count_private=true&show_icons=true&theme=tokyonight)
 
 <!---
 cywang95/cywang95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
