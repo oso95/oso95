@@ -2,7 +2,6 @@
 
 - 👋 Hi, I’m @oso95
 - 👀 I’m interested in programming
-- 🌱 I’m currently building NFC digital business card platform to provide service to university students
 - 📫 How to reach me cyw@cywang.me
 
 ```
